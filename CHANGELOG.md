@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/iamludal/semantic-release-tags/compare/1.0.0...1.0.1) (2022-07-06)
+
+
+### Bug Fixes
+
+* **release:** build app before deploying it ([82c5020](https://github.com/iamludal/semantic-release-tags/commit/82c5020a93d95910257c5db5f296c83976023751))
+
 # 1.0.0 (2022-07-06)
 
 
