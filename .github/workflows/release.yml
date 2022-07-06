@@ -14,6 +14,12 @@ jobs:
       - name: Set up node 🔧
         uses: actions/setup-node@v3
 
+      - name: Install dependencies 📥
+        run: yarn
+
+      - name: Build 🔨
+        run: yarn build
+
       - name: Semantic Release 🚀
         id: semantic-release
         uses: cycjimmy/semantic-release-action@v3.0.0
