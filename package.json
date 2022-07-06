@@ -1,0 +1,23 @@
+{
+  "name": "semantic-release-tags",
+  "version": "1.0.0",
+  "description": "Semantic Release plugin to move major and minor tags up when a new release is created.",
+  "main": "dist/index.js",
+  "author": "iamludal",
+  "homepage": "https://github.com/iamludal/semantic-release-tags",
+  "repository": "https://github.com/iamludal/semantic-release-tags",
+  "license": "MIT",
+  "keywords": [
+    "tags",
+    "semantic-release",
+    "github-actions"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/semantic-release": "^17.2.3",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {}
+}
