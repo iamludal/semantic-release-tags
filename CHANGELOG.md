@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/iamludal/semantic-release-tags/compare/1.0.1...1.0.2) (2022-07-27)
+
+
+### Bug Fixes
+
+* **publish:** rename prepare function to publish ([0bbd00f](https://github.com/iamludal/semantic-release-tags/commit/0bbd00fcab91d27101e627fe6cdb938af00fcbb7))
+
 ## [1.0.1](https://github.com/iamludal/semantic-release-tags/compare/1.0.0...1.0.1) (2022-07-06)
 
 
