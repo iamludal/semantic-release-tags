@@ -1,7 +1,7 @@
 import { Config, Context } from 'semantic-release';
 import { execSync } from 'child_process';
 
-export async function prepare(_: Config, { nextRelease, options }: Context) {
+export async function publish(_: Config, { nextRelease, options }: Context) {
   const major = nextRelease.version.split('.')[0];
   const commit = nextRelease.gitHead;
   const finalTag = options.tagFormat.replace('${version}', major);
