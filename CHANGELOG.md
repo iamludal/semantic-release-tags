@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/iamludal/semantic-release-tags/compare/1.0.2...2.0.0) (2022-10-08)
+
+
+### Bug Fixes
+
+* also move minor tags ([#2](https://github.com/iamludal/semantic-release-tags/issues/2)) ([192dcb9](https://github.com/iamludal/semantic-release-tags/commit/192dcb9a32639fc6e8998a1b94184bf3424e8e71))
+
+
+### BREAKING CHANGES
+
+* minor tags are now added
+
 ## [1.0.2](https://github.com/iamludal/semantic-release-tags/compare/1.0.1...1.0.2) (2022-07-27)
 
 
