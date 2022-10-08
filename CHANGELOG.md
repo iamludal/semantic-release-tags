@@ -11,19 +11,6 @@
 * a new tag is created, corresponding to
 the minor version
 
-# [2.0.0-beta.1](https://github.com/iamludal/semantic-release-tags/compare/1.0.2...2.0.0-beta.1) (2022-10-08)
-
-
-### Bug Fixes
-
-* also move minor tag ([79c0586](https://github.com/iamludal/semantic-release-tags/commit/79c05863852294ed6571f4e87baea34f20e9fb48))
-
-
-### BREAKING CHANGES
-
-* a new tag is created, corresponding to
-the minor version
-
 ## [1.0.2](https://github.com/iamludal/semantic-release-tags/compare/1.0.1...1.0.2) (2022-07-27)
 
 
