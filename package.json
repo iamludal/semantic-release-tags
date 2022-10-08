@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-tags",
-  "version": "1.0.2",
+  "version": "2.0.0-beta.1",
   "description": "Semantic Release plugin to move major and minor tags up when a new release is created.",
   "main": "dist/index.js",
   "author": "iamludal",
