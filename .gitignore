@@ -1,4 +1,4 @@
 node_modules/
 dist/
-dummy_repo/CHANGELOG.md
-dummy_repo/dummy.txt
+**/dummy_repo/CHANGELOG.md
+**/dummy_repo/dummy.txt
