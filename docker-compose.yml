@@ -1,0 +1,14 @@
+version: '3'
+services:
+  verdaccio:
+    image: verdaccio/verdaccio:4
+    container_name: verdaccio
+    environment:
+      - VERDACCIO_USER_NAME=app
+    ports:
+      - 4873:4873
+    volumes:
+      - verdaccio:/verdaccio/storage
+
+volumes:
+  verdaccio:
