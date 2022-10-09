@@ -32,3 +32,7 @@ $ yarn add --dev semantic-release-tags
   ]
 }
 ```
+
+## Contributing
+
+If you wish to contribute to this project, please see [CONTRIBUTING.md](./CONTRIBUTING.md).
